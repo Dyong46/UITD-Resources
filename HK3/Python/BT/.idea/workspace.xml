@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29a7a2b7-f34e-46d1-88f1-a662276f0b63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi1/BTBuoi1_24410147.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi1/BTBuoi1_24410147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi1/DemoBuoi1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi1/DemoBuoi1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi1/DemoDatType_v1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi2/DemoBuoi3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi3/chuong4/demo_loop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi3/chuong4/demo_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi3/chuong4/kbb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/aesthetic-clinic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/dental-3d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/dental-clinic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/showroom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/comments-content/stem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/typeVideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/videos.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ydS50Yueldi0ZkLWoGDVP01cql" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.DemoBuoi1.executor": "Run",
+    "Python.demo_while.executor": "Run",
+    "Python.kbb.executor": "Run",
+    "Python.kiem_tra.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.script.executor": "Run",
+    "Python.typeVideo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Buoi2" />
+      <recent name="$PROJECT_DIR$/script/comments-content" />
+      <recent name="$PROJECT_DIR$/script" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a7a2b7-f34e-46d1-88f1-a662276f0b63" name="Changes" comment="" />
+      <created>1750162769805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750162769805</updated>
+      <workItem from="1750162770858" duration="4600000" />
+      <workItem from="1750168935398" duration="1388000" />
+      <workItem from="1750170331535" duration="2000" />
+      <workItem from="1750406569061" duration="18179000" />
+      <workItem from="1750603696906" duration="691000" />
+      <workItem from="1750670936849" duration="8000" />
+      <workItem from="1750766665219" duration="7071000" />
+      <workItem from="1750838847930" duration="5466000" />
+      <workItem from="1750850791644" duration="1946000" />
+      <workItem from="1750916435569" duration="4089000" />
+      <workItem from="1751975286237" duration="5522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BT$DemoBuoi1.coverage" NAME="DemoBuoi1 Coverage Results" MODIFIED="1750166187441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Buoi1" />
+    <SUITE FILE_PATH="coverage/BT$kiem_tra.coverage" NAME="kiem_tra Coverage Results" MODIFIED="1750773791216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Buoi3" />
+    <SUITE FILE_PATH="coverage/BT$script.coverage" NAME="script Coverage Results" MODIFIED="1750916512484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/BT$typeVideo.coverage" NAME="typeVideo Coverage Results" MODIFIED="1750916493087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/BT$main.coverage" NAME="main Coverage Results" MODIFIED="1750163862587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BT$demo_while.coverage" NAME="demo_while Coverage Results" MODIFIED="1751977226935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Buoi3/chuong4" />
+    <SUITE FILE_PATH="coverage/BT$kbb.coverage" NAME="kbb Coverage Results" MODIFIED="1751979525207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Buoi3/chuong4" />
+  </component>
+</project>
