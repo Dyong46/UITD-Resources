@@ -23,6 +23,14 @@ Thumbs.db
 *.bak
 *.~*
 
+#media
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+
 # Office backup files
 *.pptx~
 *.docx~
