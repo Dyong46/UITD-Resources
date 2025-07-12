@@ -1,0 +1,53 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# macOS Finder attributes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.~*
+
+# Office backup files
+*.pptx~
+*.docx~
+*.xlsx~
+*.pdf~
+
+# VS Code settings (if using)
+.vscode/
+
+# Node.js (if used in any projects)
+node_modules/
+
+# Java/IntelliJ/NetBeans/Eclipse (if you store code)
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
+build/
+
+# Python (if used for AI/code)
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
