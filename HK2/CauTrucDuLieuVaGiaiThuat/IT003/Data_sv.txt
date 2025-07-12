@@ -1,0 +1,8 @@
+SinhVien sv1 = {123, "Nguyen Van A", 9.1, ""};
+    SinhVien sv2 = {124, "Nguyen Van B", 8.8, ""};
+    SinhVien sv3 = {125, "Nguyen Van C", 9.1, ""};
+    SinhVien sv4 = {126, "Nguyen Van D", 2.1, ""};
+    SinhVien sv5 = {127, "Nguyen Van F", 9.7, ""};
+    SinhVien sv6 = {128, "Nguyen Van G", 4.1, ""};
+    SinhVien sv7 = {129, "Nguyen Van H", 8.3, ""};
+    SinhVien sv8 = {130, "Nguyen Van K", 7.9, ""};
