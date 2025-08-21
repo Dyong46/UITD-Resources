@@ -13,5 +13,32 @@
         <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    
+    <build>
+        <plugins>
+            <!-- Plugin để bật preview khi compile -->
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
+                <configuration>
+                    <release>24</release>
+                    <compilerArgs>
+                        <arg>--enable-preview</arg>
+                    </compilerArgs>
+                </configuration>
+            </plugin>
+
+            <!-- Plugin để bật preview khi chạy bằng Maven -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <mainClass>com.uitd.Main</mainClass>
+                    <commandlineArgs>--enable-preview</commandlineArgs>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

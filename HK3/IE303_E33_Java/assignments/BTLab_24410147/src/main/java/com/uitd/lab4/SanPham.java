@@ -7,6 +7,8 @@ public class SanPham {
     private double donGia;
     private double giamGia;
 
+    public SanPham() {}
+
     public SanPham(String tenSanPham, double donGia, double giamGia) {
         this.tenSanPham = tenSanPham;
         this.donGia = donGia;

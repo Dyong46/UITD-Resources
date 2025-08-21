@@ -48,5 +48,6 @@ public class DeQuy {
             return 1 + countDigits(n / 10);
             // B1: 1 + countDigits(1) = 1
         }
+        return 0;
     }
 }
