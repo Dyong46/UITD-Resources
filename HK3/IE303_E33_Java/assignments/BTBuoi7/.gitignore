@@ -11,6 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
+### đã xóa file
 
 ### Eclipse ###
 .apt_generated
