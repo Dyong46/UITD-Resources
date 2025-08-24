@@ -37,6 +37,8 @@ Thumbs.db
 *.xlsx~
 *.pdf~
 
+# Hello test my app
+
 # VS Code settings (if using)
 .vscode/
 
