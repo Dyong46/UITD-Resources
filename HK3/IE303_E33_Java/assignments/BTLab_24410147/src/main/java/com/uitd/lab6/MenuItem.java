@@ -64,6 +64,7 @@ public class MenuItem extends JFrame implements ActionListener {
         }
         if (e.getSource() == pasteMenuItem) {
             textArea.setText("Welcome to the Paste");
+            gssgg
         }
         if (e.getSource() == selectAllMenuItem) {
             textArea.setText("Welcome to the Select All");
