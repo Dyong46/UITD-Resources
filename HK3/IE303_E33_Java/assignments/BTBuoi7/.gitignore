@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+### đã xóa file fâf
+# test 123 321 - local duong hahahahah 1233
+# test 123 333 remote thu fafaf
 ### đã xóa file
 # test 123 321 - local duong hahahahah
 # test 123 333 remote thu
@@ -33,6 +36,11 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+# test 123 333 remote thu fafaf
+### đã xóa file
+# test 123 321 - local duong hahahahah
+# test 123 333 remote thu
 
 ### VS Code ###
 .vscode/
